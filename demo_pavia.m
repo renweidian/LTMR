@@ -130,4 +130,4 @@ t0=clock;
 % QM.ergas=[mean(ergas1), mean(ergas2),mean(ergas3),mean(ergas4)];
 % QM.uiqi=[mean(uiqi1), mean(uiqi2),mean(uiqi3),mean(uiqi4)];
 % % 
-% save('pavia_4.mat','QM')
+
